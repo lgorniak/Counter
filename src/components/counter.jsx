@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import Like from "./Like";
 
+// Testing gitbug commit account
 // Controlled Component. It does not have own local state.
 class Counter extends Component {
 	render() {
