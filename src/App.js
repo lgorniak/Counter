@@ -3,6 +3,7 @@ import Counters from "./components/counters";
 import NavBar from "./components/navbar";
 import './App.css';
 
+// Testing github user inside commit
 //State Uplifting
 class App extends Component {
   state = {
