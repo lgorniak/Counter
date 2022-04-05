@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# React Project Counter
+
+Project displays some counters. Created with Class based Components and without Types
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
